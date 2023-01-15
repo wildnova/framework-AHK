@@ -1,0 +1,7 @@
+Send,{"field1":"data1","field2":"data2","field3":"data3"..."field12":"data12"}
+{{} and {}}.
+
+Key Name        Resulting Keystroke
+{{}             {
+{}}             }
+

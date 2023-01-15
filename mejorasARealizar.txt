@@ -1,0 +1,3 @@
+Agregar un clearApps.ahk que cierre la mayoría de aplicaciones.
+Crear forma de usar colas o algun sistema para comprobar lo que ha ejecutado y reducir tiempos.
+Buscar una forma de crear reintentos.

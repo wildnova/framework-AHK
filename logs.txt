@@ -1,0 +1,3 @@
+﻿"---------------------- Inicio del proceso ---------------------------"
+No se ha detectado ninguna instancia de excel abierta, continuamos con el proceso."
+Automatismo finalizado correctamente"

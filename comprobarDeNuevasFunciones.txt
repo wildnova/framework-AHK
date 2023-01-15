@@ -1,0 +1,2 @@
+si no existe fichero de worklog
+comprobar el número maximo de reintentos.
